@@ -5,8 +5,8 @@ using System.Threading;
 using System.Threading.Tasks;
 using System.Xml.Linq;
 using Microsoft.Extensions.DependencyInjection;
-using NC_Currency_Conversion_API.AppDbContext; // Your DbContext namespace
-using NC_Currency_Conversion_API.Models; // Your CurrencyRate model
+using NC_Currency_Conversion_API.AppDbContext; 
+using NC_Currency_Conversion_API.Models; 
 using System.Globalization;
 
 namespace NC_Currency_Conversion_API.Jobs
